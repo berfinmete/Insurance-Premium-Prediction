@@ -9,5 +9,5 @@ Variables :
 -charges: premium amount
 
 Step-by-step procedures:
-we did problem definition, data analysis, data visualization and regression analysis.
+We did problem definition, data analysis, data visualization and regression analysis.
 We used the scikit-learn library to train and predict our model and to evaluate the model performance.
