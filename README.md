@@ -1,7 +1,14 @@
 About the project:
 
- An insurance company wants to create a model to determine insurance premiums for its customers. It wants to predict insurance premiums for customers based on their age, gender, BMI, number of children, whether they smoke, and location. It wants to create a model to predict insurance premiums for customers./Bir sigorta şirketi müşterilerinin sigorta primlerini belirlemek için bir model oluşturmak istemektedir. Müşterilerin yaşlarına, cinsiyetlerine, BMI'lerine, çocuk sayılarına, sigara içip içmediklerine ve bölgeye göre sigorta primlerini tahmin etmek istemektedir. Bir model oluşturarak müşterilerin sigorta primlerini tahmin etmek istemektedir.
-We used a CSV file (medical.csv) containing data from more than 1300 clients. 
+ENG
+
+An insurance company wants to create a model to determine insurance premiums for its customers. It wants to predict insurance premiums for customers based on their age, gender, BMI, number of children, whether they smoke, and location. It wants to create a model to predict insurance premiums for customers. We used a CSV file (medical.csv) containing data from more than 1300 clients. 
+
+TR
+
+Bir sigorta şirketi müşterilerinin sigorta primlerini belirlemek için bir model oluşturmak istemektedir. Müşterilerin yaşlarına, cinsiyetlerine, BMI'lerine, çocuk sayılarına, sigara içip içmediklerine ve bölgeye göre sigorta primlerini tahmin etmek istemektedir. Bir model oluşturarak müşterilerin sigorta primlerini tahmin etmek istemektedir.
+1300'den fazla müşteriden alınan verileri içeren bir CSV dosyası (medical.csv) kullandık.
+
 
 Variables :
 -sex:gender 
