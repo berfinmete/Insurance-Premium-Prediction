@@ -2,12 +2,14 @@ About the project:
 
 ENG
 
-An insurance company wants to create a model to determine insurance premiums for its customers. It wants to predict insurance premiums for customers based on their age, gender, BMI, number of children, whether they smoke, and location. It wants to create a model to predict insurance premiums for customers. We used a CSV file (medical.csv) containing data from more than 1300 clients. 
+In this project, the goal is to develop a machine learning-based model that enables an insurance company to calculate fairer and more accurate insurance premiums for its clients. The model is designed to predict insurance charges based on customers' demographic and health-related information.
+To train the model, we used a dataset named medical.csv, which contains information on more than 1,300 individuals.
 
 TR
 
-Bir sigorta şirketi müşterilerinin sigorta primlerini belirlemek için bir model oluşturmak istemektedir. Müşterilerin yaşlarına, cinsiyetlerine, BMI'lerine, çocuk sayılarına, sigara içip içmediklerine ve bölgeye göre sigorta primlerini tahmin etmek istemektedir. Bir model oluşturarak müşterilerin sigorta primlerini tahmin etmek istemektedir.
-1300'den fazla müşteriden alınan verileri içeren bir CSV dosyası (medical.csv) kullandık.
+Bu projede, bir sigorta şirketinin müşterileri için daha adil ve doğru prim hesaplamaları yapabilmesini sağlamak amacıyla, makine öğrenmesi tabanlı bir sigorta prim tahmin modeli geliştirilmesi hedeflenmiştir. Model, müşterilerin demografik ve sağlık verilerine dayalı olarak sigorta primlerini öngörecek şekilde tasarlanmıştır.
+
+Modelin eğitimi için, 1300'den fazla müşteriye ait bilgileri içeren medical.csv adlı bir veri seti kullanılmıştır.
 
 
 Variables :
